@@ -1,0 +1,6 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! I'm Arnav Shah, a sophmore studying Computer Science at the College of Engineering. A fun fact about me is 
+that I can speak 3 different languages: English, Gujarati, and Japanese. 
